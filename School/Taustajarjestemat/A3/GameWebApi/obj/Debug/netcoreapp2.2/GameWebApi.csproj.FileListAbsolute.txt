@@ -1,0 +1,14 @@
+C:\Users\Ville\A3\GameWebApi\bin\Debug\netcoreapp2.2\GameWebApi.deps.json
+C:\Users\Ville\A3\GameWebApi\bin\Debug\netcoreapp2.2\GameWebApi.runtimeconfig.json
+C:\Users\Ville\A3\GameWebApi\bin\Debug\netcoreapp2.2\GameWebApi.runtimeconfig.dev.json
+C:\Users\Ville\A3\GameWebApi\bin\Debug\netcoreapp2.2\GameWebApi.dll
+C:\Users\Ville\A3\GameWebApi\bin\Debug\netcoreapp2.2\GameWebApi.pdb
+C:\Users\Ville\A3\GameWebApi\obj\Debug\netcoreapp2.2\GameWebApi.csprojAssemblyReference.cache
+C:\Users\Ville\A3\GameWebApi\obj\Debug\netcoreapp2.2\GameWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Ville\A3\GameWebApi\obj\Debug\netcoreapp2.2\GameWebApi.RazorAssemblyInfo.cache
+C:\Users\Ville\A3\GameWebApi\obj\Debug\netcoreapp2.2\GameWebApi.RazorAssemblyInfo.cs
+C:\Users\Ville\A3\GameWebApi\obj\Debug\netcoreapp2.2\GameWebApi.AssemblyInfoInputs.cache
+C:\Users\Ville\A3\GameWebApi\obj\Debug\netcoreapp2.2\GameWebApi.AssemblyInfo.cs
+C:\Users\Ville\A3\GameWebApi\obj\Debug\netcoreapp2.2\GameWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Ville\A3\GameWebApi\obj\Debug\netcoreapp2.2\GameWebApi.dll
+C:\Users\Ville\A3\GameWebApi\obj\Debug\netcoreapp2.2\GameWebApi.pdb

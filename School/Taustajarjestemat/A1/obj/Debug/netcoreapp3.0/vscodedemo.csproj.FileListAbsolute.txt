@@ -1,0 +1,13 @@
+C:\Users\Ville\vscodedemo\bin\Debug\netcoreapp3.0\vscodedemo.exe
+C:\Users\Ville\vscodedemo\bin\Debug\netcoreapp3.0\vscodedemo.deps.json
+C:\Users\Ville\vscodedemo\bin\Debug\netcoreapp3.0\vscodedemo.runtimeconfig.json
+C:\Users\Ville\vscodedemo\bin\Debug\netcoreapp3.0\vscodedemo.runtimeconfig.dev.json
+C:\Users\Ville\vscodedemo\bin\Debug\netcoreapp3.0\vscodedemo.dll
+C:\Users\Ville\vscodedemo\bin\Debug\netcoreapp3.0\vscodedemo.pdb
+C:\Users\Ville\vscodedemo\obj\Debug\netcoreapp3.0\vscodedemo.csprojAssemblyReference.cache
+C:\Users\Ville\vscodedemo\obj\Debug\netcoreapp3.0\vscodedemo.AssemblyInfoInputs.cache
+C:\Users\Ville\vscodedemo\obj\Debug\netcoreapp3.0\vscodedemo.AssemblyInfo.cs
+C:\Users\Ville\vscodedemo\obj\Debug\netcoreapp3.0\vscodedemo.dll
+C:\Users\Ville\vscodedemo\obj\Debug\netcoreapp3.0\vscodedemo.pdb
+C:\Users\Ville\vscodedemo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ville\vscodedemo\obj\Debug\netcoreapp3.0\vscodedemo.csproj.CopyComplete
