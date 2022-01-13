@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/tVgoYGoyYNmYDgZnm27TQtXKIdxuyei86sS2oRFjX5EB+SKznm89RA0ILNpnUwC92XQsvA3Mg/PbeP/GoTzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kajan\\OneDrive\\Työpöytä\\CardGame\\GameServer\\GameServer\\GameServer\\GameServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kajan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

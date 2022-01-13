@@ -1,0 +1,13 @@
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
+C:\Users\kajan\OneDrive\Työpöytä\CardGame\GameServer\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.AssemblyReference.cache
